@@ -1,0 +1,14 @@
+HTTrack3.48-22+htsswf+htsjava launched on Wed, 04 May 2016 22:22:52 at http://getbootstrap.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://getbootstrap.com/ -O1 "C:\My Web Sites\http___getbootstrap.com_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:25:08	Warning: 	Link getbootstrap.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+22:25:08	Error: 	"Not Found" (404) at link getbootstrap.com/track.js (from secure.gaug.es/track.js)
+22:25:08	Error: 	"Not Found" (404) at link getbootstrap.com/track.gif (from secure.gaug.es/track.js)
+
+HTTrack Website Copier/3.48-22 mirror complete in 2 minutes 18 seconds : 111 links scanned, 108 files written (5609077 bytes overall) [3197249 bytes received at 23168 bytes/sec], 3453027 bytes transferred using HTTP compression in 72 files, ratio 27%, 4.8 requests per connection
+(2 errors, 1 warnings, 0 messages)
